@@ -1,0 +1,15 @@
+body{
+    background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+.col-md-7{
+    background-color: white;
+    margin: 120px !important;
+}
+
+h1{background-color: darkmagenta;
+color: white; margin: 10px;}
+#quizdiv{
+    list-style:upper-alpha;
+    padding:10px;
+}
+li{padding: 10px;}
